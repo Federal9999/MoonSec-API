@@ -1,0 +1,45 @@
+flag = "DiscordFed"
+--------------------------------------------------------------------------------------------------------------
+local MoonSec54Webhook = https://raw.githubusercontent.com/Federal9999/MoonSec-API/main/%E1%B2%BC%E1%B2%BC5.4
+local MoonSecCSGOWebhook = https://raw.githubusercontent.com/Federal9999/MoonSec-API/main/CS%3AGO
+local FiveMBeta = https://raw.githubusercontent.com/Federal9999/MoonSec-API/main/Five-M
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+local Website = https://github.com
+
+-- -- -- --
+
+local 54Hook = %E1%B2%BC%E1%B2%BC5.4
+local CSGOWebhook = CS%3AGO
+local FMPYBETAhook = Five-M
+
+-- -- DISCORD PROPERTIES -- --
+
+flag.DiscordFed = {
+DISCORD://Name/Obfuscator Slave/
+PNG(image("discord://476917634/DiscBlush"))
+DISCORD://109471688294716391 -- Bot ID
+}
+
+-- -- -- --
+
+if Missing / Error then
+if "Missing" then chat.ai(Say(game:url(https://discord.com(FireServer(ReplicatedStorage("An Error occured, Make sure your scripts run successfully, - Beautify your scripts at goonlinetools.com"))))(true);
+
+-- -- -- --
+
+DISCORDBUTTONLIB://339183700019372
+
+addUI("xyz{-16, -100, 0}, color{255, 0, 0, if 'Clicked' then changecolor{0, 255, 0}):(text("Anti Tamper"):Button
+addUI("xyz{0, -100, 0}, color{255, 0, 0, if 'Clicked' then changecolor{0, 255, 0}):(text("Max Security"):Button
+addUI("xyz{16, -100, 0}, color{255, 0, 0, if 'Clicked' then changecolor{0, 255, 0}):(text("Constant Protection"):Button
+if "Anti Tamper" 'Clicked' then Find.script("Webhook");_game:FireServer("Execute", FindForChild("Anti Tamper"), true)()
+if "Max Security" 'Clicked' then Find.script("Webhook");_game:FireServer("Execute", FindForChild("Max Security"), true)()
+if "Constant Protection" 'Clicked' then Find.script("Webhook");_game:FireServer("Execute", FindForChild("Constant Protection"), true)()
+if all 'Clicked' then do (\31\53\67\10...)
+Destroy()
+
+-- -- -- --
+#Not Finished, adding full version soon :)
+

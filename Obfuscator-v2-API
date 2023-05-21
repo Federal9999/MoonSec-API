@@ -1,0 +1,68 @@
+DISCORDMETHOD://lua
+
+--
+
+flag = "DogeFlag"
+--------------------------------------------------------------------------------------------------------------
+
+local MoonSec54Webhook = https://raw.githubusercontent.com/Federal9999/MoonSec-API/main/%E1%B2%BC%E1%B2%BC5.4
+local MoonSecCSGOWebhook = https://raw.githubusercontent.com/Federal9999/MoonSec-API/main/CS%3AGO
+local FiveMBeta = https://raw.githubusercontent.com/Federal9999/MoonSec-API/main/Five-M
+local RobloxWebhook = https://raw.githubusercontent.com/Federal9999/MoonSec-API-bot/main/Roblox
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+
+local Website = https://github.com
+
+-- -- -- --
+
+local 54Hook = %E1%B2%BC%E1%B2%BC5.4
+local CSGOWebhook = CS%3AGO
+local FMPYBETAhook = Five-M
+local Robloxhook = Roblox
+
+-- -- DISCORD PROPERTIES -- --
+
+flag.DogeFlag = {
+SetStatus = Off
+DISCORD://Name/Obfuscator v2/
+PNG(image("discord://8416294027/Obfv2.png"))
+DISCORD://135261785926391094 -- Bot ID
+DISCORDINFO:("")
+}
+
+-- -- -- --
+
+if Missing / Error then
+if "Missing" then (\29\76\02\48\.., true.)
+
+-- -- -- --
+
+DISCORDBUTTONLIB://336153810271531 #Currently down rn
+
+add:Dropdown{
+local MoonSec54Webhook = if 'Picked' then loadfile("54Hook")
+local MoonSecCSGOWebhook = if 'Picked' then loadfile("CSGOWebhook")
+local FMPYBETAhook = if 'Picked' then loadfile("Five-M")
+local Robloxhook = if 'Picked' then loadfile("Roblox")
+}
+
+
+
+addUI("xyz{-16, -100, 0}, color{255, 0, 0, if 'Clicked' then changecolor{0, 255, 0}}}):(text("Anti Tamper"):Button
+addUI("xyz{0, -100, 0}, color{255, 0, 0, if 'Clicked' then changecolor{0, 255, 0}}}):(text("Max Security"):Button
+addUI("xyz{16, -100, 0}, color{255, 0, 0, if 'Clicked' then changecolor{0, 255, 0}}}):(text("Constant Protection"):Button
+addUI("xyz{16, -100, 0}, color{0, 0, 255, if 'Clicked' then do to text(\34\67\10\43\...):(text("Obfuscate"):Button
+if "Anti Tamper" 'Clicked' then Find.script("Webhook");_game:FireServer("Execute", FindForChild("Anti Tamper"), true)()
+if "Max Security" 'Clicked' then Find.script("Webhook");_game:FireServer("Execute", FindForChild("Max Security"), true)()
+if "Constant Protection" 'Clicked' then Find.script("Webhook");_game:FireServer("Execute", FindForChild("Constant Protection"), true)()
+if "Obfuscate" 'Clicked' then Find.script("Webhook");_do (\21\47\42\98\... to text);_then game:FireServer("Execute", FindForChild("Obfuscate"), true)()
+if all 'Clicked' then do (\31\53\67\10...)
+then if "Obfuscate" 'Clicked' then do
+If "loading" done then (\49\32\17\47\95\82\25\...);
+
+-- -- -- --
+Destroy()
+-- -- -- --
+
+
